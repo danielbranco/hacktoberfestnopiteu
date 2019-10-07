@@ -1,10 +1,10 @@
 # Hacktoberfest no Piteu
 
-Esse repositório é voltado para todos que vão participar da Hack Night do Hacktoberfest no Pitéu - Secos e Molhados. 
+Esse repositório é voltado para todos que vão participar da Hack Night do Hacktoberfest no Pitéu - Secos e Molhados, nos dias 19 e 20 de Outubro de 2019. 
 
 ## Iniciando
 
-Para dar o seu pull request, vá até o arquivo 'Participantes' e adicione os seus dados seguindo o padrão já utilizado pelos usuários que já preencheram o arquivo. Depois disso, é só efetuar o seu pull request e você estará um passo mais perto de completar o desafio do Hacktoberfest 2019!
+Confira as nossas indicações de como começar no Hacktoberfest no arquivo 'iniciando.md'.
 
 ### Pré Requisitos
 
