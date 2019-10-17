@@ -231,4 +231,4 @@ An analyzer library for C# and VB that uses Roslyn to produce refactorings, code
 
 ## Dê uma ⭐ para o nosso repositório. 🤩
 
-##Sinta-se Livre para adicionar o seu repositório aqui e fazer o seu pull request!
+## Sinta-se Livre para adicionar o seu repositório aqui e fazer o seu pull request!
