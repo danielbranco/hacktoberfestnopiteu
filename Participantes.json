@@ -15,5 +15,12 @@ github: 'https://github.com/BarbaraRossi'
 }
 
 
+3:
+{
+nome: 'Daniel Branco',
+email: 'danielbranco@gmail.com',
+telefone: '(11) 952151578',
+github: 'https://github.com/danielbranco'
+}
 
 
