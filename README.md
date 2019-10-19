@@ -1,6 +1,6 @@
 # Hacktoberfest no Piteu
 
-Esse repositório é voltado para todos que vão participar da Hack Night do Hacktoberfest no Pitéu - Secos e Molhados, nos dias 19 e 20 de Outubro de 2019. 
+Esse repositório é voltado para todos que vão participar da Hack Night do Hacktoberfest no Pitéu - Secos e Molhados, no dia 19 de Outubro de 2019. 
 
 ## Iniciando
 
